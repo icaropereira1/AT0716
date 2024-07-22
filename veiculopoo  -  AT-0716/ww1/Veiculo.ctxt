@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=
+comment1.target=java.lang.String\ getCor()
+comment1.text=GET\ Method\ Propertie\ Cor
+comment2.params=cor
+comment2.target=void\ setCor(java.lang.String)
+comment2.text=SET\ Method\ Propertie\ Cor
+comment3.params=
+comment3.target=java.lang.String\ getPlaca()
+comment3.text=GET\ Method\ Propertie\ Placa
+comment4.params=placa
+comment4.target=void\ setPlaca(java.lang.String)
+comment4.text=SET\ Method\ Propertie\ Placa
+comment5.params=
+comment5.target=int\ getPassageiro()
+comment5.text=GET\ Method\ Propertie\ Modelo
+comment6.params=Passageiro
+comment6.target=void\ setPassageiro(int)
+comment6.text=SET\ Method\ Propertie\ Modelo
+numComments=7
